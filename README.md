@@ -1,7 +1,14 @@
-# Magisk Module Template
+# Ruda-Font-Magisk-Module
+This [magisk](https://github.com/topjohnwu/Magisk) module replaces the default font with Ruda systemless-ly.
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+# How to install
+Download the latest [release](https://github.com/anbuchelva/Ruda-Font-Magisk-Module/releases) and install from custom recovery such as [TWRP](https://twrp.me/).
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+# Credits
+* [John Wu](https://github.com/topjohnwu) - for making the magisk
+* [Google](https://google.com) - for making the [Ruda](https://fonts.google.com/specimen/Ruda) font
+* [Anbuselvan](https://anbuchelva.in) - Who made [this](https://github.com/anbuchelva/Ruda-Font-Magisk-Module) magisk module
 
-For more information about modules and repos, please check the [official documentation](https://topjohnwu.github.io/Magisk/)
+# Releases
+## v1
+Initial Release

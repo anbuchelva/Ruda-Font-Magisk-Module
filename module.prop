@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=rudafont
+name=Ruda Font
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=anbuchelva
+description=This module would replace the default system font with Ruda font made by Google systemless-ly
 minMagisk=17000
